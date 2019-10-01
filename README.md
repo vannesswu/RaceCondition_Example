@@ -6,10 +6,10 @@ start perform addNumber base 0 add 2
 start perform addNumber base 0 add 1  
 start perform addNumber base 0 add 0  
 start perform addNumber base 0 add 3  
-:exclamation: ready to write base from 0 to 10 and waiting...  
+:exclamation:ready to write base from 0 to 10 and waiting...  
 start perform addNumber base 0 add 4  
 start perform addNumber base 0 add 6  
-:exclamation: start perform write base to 10    
+:exclamation:start perform write base to 10    
 start perform addNumber base 0 add 7  
 start perform addNumber base 0 add 8  
 start perform addNumber base 0 add 9  
@@ -19,7 +19,7 @@ finish perform addNumber 2 result 2
 finish perform addNumber 7 result 7  
 finish perform addNumber 8 result 8  
 finish perform addNumber 10 result 10  
-:exclamation: finish perform write base to 10  
+:exclamation:finish perform write base to 10  
 finish perform addNumber 4 result 14  
 finish perform addNumber 0 result 10  
 finish perform addNumber 9 result 19  
@@ -31,14 +31,14 @@ start perform addNumber base 0 add 0
 start perform addNumber base 0 add 2  
 start perform addNumber base 0 add 1  
 start perform addNumber base 0 add 4  
-:exclamation: ready to write base from 0 to 10 and waiting...  
+:exclamation:ready to write base from 0 to 10 and waiting...  
 finish perform addNumber 1 result 1  
 finish perform addNumber 4 result 4  
 finish perform addNumber 2 result 2  
 finish perform addNumber 0 result 0  
 finish perform addNumber 3 result 3  
-:exclamation: start perform write base to 10  
-:exclamation: finish perform write base to 10    
+:exclamation:start perform write base to 10  
+:exclamation:finish perform write base to 10    
 start perform addNumber base 10 add 7  
 start perform addNumber base 10 add 10  
 start perform addNumber base 10 add 6  
