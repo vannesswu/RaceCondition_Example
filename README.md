@@ -6,7 +6,9 @@ start perform addNumber base 0 add 2
 start perform addNumber base 0 add 1  
 start perform addNumber base 0 add 0  
 start perform addNumber base 0 add 3  
-**ready to write base from 0 to 10 and waiting...**     
+```diff
+- ready to write base from 0 to 10 and waiting...    
+```
 start perform addNumber base 0 add 4  
 start perform addNumber base 0 add 6  
 **start perform write base to 10**    
